@@ -1,0 +1,4 @@
+com\sophi\crm\controller\ClienteController.class
+com\sophi\crm\model\Cliente.class
+com\sophi\crm\SophiaApiApplication.class
+com\sophi\crm\repository\ClienteRepository.class
